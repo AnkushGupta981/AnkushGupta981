@@ -35,7 +35,7 @@ I'm a passionate data science learner with a strong background in finance. I'm t
 
 | 📁 Project | 🔍 Description | 🔗 Link |
 |-----------|----------------|--------|
-| Titanic ML | Classification model to predict survival using logistic regression & decision trees. | [View Project](https://github.com/AnkushGupta981/titanic-ml) |
+| Titanic ML | Predict survival using logistic regression. | [View Project](https://github.com/AnkushGupta981/Project-1.-Titanic-Survival-Prediction-using-Machine-Learning) | |
 | House Price Prediction | Regression analysis on housing data using multiple linear regression. | [View Project](https://github.com/AnkushGupta981/house-price-prediction) |
 | World Happiness Report | EDA on global happiness scores with visualizations. | [View Project](https://github.com/AnkushGupta981/world-happiness-report) |
 | Credit Card Fraud | Anomaly detection using machine learning on imbalanced data. | [View Project](https://github.com/AnkushGupta981/credit-card-fraud-detection) |
