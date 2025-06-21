@@ -51,7 +51,6 @@ I'm a passionate data science learner with a strong background in finance. I'm t
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN)
-- 🐱 [GitHub](https://github.com/YOUR_USERNAME)
-- 📊 [Tableau Public (optional)](#)
-- 📧 ankush.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/ankushgupta10)
+- 🐱 [GitHub](https://github.com/AnkushGupta981)
+- 📧 ankushthedatascientist@gmail.com
