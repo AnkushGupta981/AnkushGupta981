@@ -33,12 +33,12 @@ I'm a passionate data science learner with a strong background in finance. I'm t
 
 ### 🚀 Featured Projects
 
-| 📁 Project | 🔍 Description | 🔗 Link |
-|-----------|----------------|--------|
-| Titanic ML | Predict survival using logistic regression. | [View Titanic Project on GitHub](https://github.com/AnkushGupta981/AnkushGupta981) | |
-| House Price Prediction | Regression analysis on housing data using multiple linear regression. | [View Project](https://github.com/AnkushGupta981/house-price-prediction) |
-| World Happiness Report | EDA on global happiness scores with visualizations. | [View Project](https://github.com/AnkushGupta981/world-happiness-report) |
-| [Credit Card Fraud Detection using Machine Learning](https://github.com/AnkushGupta981/AnkushGupta981/blob/main/Credit%20Card%20Fraud%20Detection%20using%20Machine%20Learning%20.ipynb) |
+| 📁 **Project**                                | 🔍 **Description**                                                                 | 🔗 **Link**                                       |
+|----------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------|
+| Titanic ML                                   | Predict survival using logistic regression.                                       | [View Project](https://github.com/AnkushGupta981/AnkushGupta981/blob/main/Titanic%20Survival%20Prediction%20using%20Machine%20Learning%20.ipynb) |
+| Heart Disease Prediction                     | Predict risk of heart disease using logistic regression and scikit-learn.         | [View Project](https://github.com/AnkushGupta981/AnkushGupta981/blob/main/Heart%20Disease%20Prediction%20using%20Machine%20Learning%20.ipynb)   |
+| Credit Card Fraud Detection                  | Detect fraudulent transactions using logistic regression and data preprocessing.  | [View Project](https://github.com/AnkushGupta981/AnkushGupta981/blob/main/Credit%20Card%20Fraud%20Detection%20using%20Machine%20Learning%20.ipynb) |
+
 
 
 ## 📜 Certifications
